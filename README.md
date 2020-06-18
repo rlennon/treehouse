@@ -8,6 +8,6 @@ This contains data
 2 Level 2
 
 Col1 | Col 2
---------------
+----- | -----
 Cell1 | Cell 2
 Cell 3 | Cell 4
